@@ -1,0 +1,11 @@
+/Users/kwon/study/netcore/first/bin/Debug/netcoreapp3.0/first
+/Users/kwon/study/netcore/first/bin/Debug/netcoreapp3.0/first.deps.json
+/Users/kwon/study/netcore/first/bin/Debug/netcoreapp3.0/first.runtimeconfig.json
+/Users/kwon/study/netcore/first/bin/Debug/netcoreapp3.0/first.runtimeconfig.dev.json
+/Users/kwon/study/netcore/first/bin/Debug/netcoreapp3.0/first.dll
+/Users/kwon/study/netcore/first/bin/Debug/netcoreapp3.0/first.pdb
+/Users/kwon/study/netcore/first/obj/Debug/netcoreapp3.0/first.csprojAssemblyReference.cache
+/Users/kwon/study/netcore/first/obj/Debug/netcoreapp3.0/first.AssemblyInfoInputs.cache
+/Users/kwon/study/netcore/first/obj/Debug/netcoreapp3.0/first.AssemblyInfo.cs
+/Users/kwon/study/netcore/first/obj/Debug/netcoreapp3.0/first.dll
+/Users/kwon/study/netcore/first/obj/Debug/netcoreapp3.0/first.pdb
