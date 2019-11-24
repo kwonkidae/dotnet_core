@@ -9,3 +9,14 @@
 /Users/kwon/study/netcore/first/obj/Debug/netcoreapp3.0/first.AssemblyInfo.cs
 /Users/kwon/study/netcore/first/obj/Debug/netcoreapp3.0/first.dll
 /Users/kwon/study/netcore/first/obj/Debug/netcoreapp3.0/first.pdb
+/Users/kidaekwon/study/dotnet_core/bin/Debug/netcoreapp3.0/first
+/Users/kidaekwon/study/dotnet_core/bin/Debug/netcoreapp3.0/first.deps.json
+/Users/kidaekwon/study/dotnet_core/bin/Debug/netcoreapp3.0/first.runtimeconfig.json
+/Users/kidaekwon/study/dotnet_core/bin/Debug/netcoreapp3.0/first.runtimeconfig.dev.json
+/Users/kidaekwon/study/dotnet_core/bin/Debug/netcoreapp3.0/first.dll
+/Users/kidaekwon/study/dotnet_core/bin/Debug/netcoreapp3.0/first.pdb
+/Users/kidaekwon/study/dotnet_core/obj/Debug/netcoreapp3.0/first.csprojAssemblyReference.cache
+/Users/kidaekwon/study/dotnet_core/obj/Debug/netcoreapp3.0/first.AssemblyInfoInputs.cache
+/Users/kidaekwon/study/dotnet_core/obj/Debug/netcoreapp3.0/first.AssemblyInfo.cs
+/Users/kidaekwon/study/dotnet_core/obj/Debug/netcoreapp3.0/first.dll
+/Users/kidaekwon/study/dotnet_core/obj/Debug/netcoreapp3.0/first.pdb

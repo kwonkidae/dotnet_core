@@ -7,6 +7,13 @@ namespace first
 
 		}
 	}
+
+	public struct Address {
+		public string State { get; set; }
+		public Address(string state){
+			this.State = state;
+		}
+	}
 	public struct Point {
 		public double X { get; set; }
 		public double Y { get; set; }
@@ -36,12 +43,23 @@ namespace first
 				_ => throw new ArgumentException(message: "invalid enum value", paramName: nameof(colorBand)),
 			};
 		
+		public static decimal ComputeSalesTax(Address location, decimal salePrice) =>
+			location switch
+			{
+				{ State: "WA" } => salePrice * 0.06M,
+				{ State: "MN" } => salePrice * 0.75M,
+				{ State: "MI"} => salePrice * 0.05M,
+				_ => 0M
+			};
 		static void Main(string[] args)
 		{
 			var point = new Point();
 			var Red = FromRainbowClassic(Rainbow.Violet);
 			int x, y;
 			new MyPoint(1, 2).Destruct(out x, out y);
+
+			var address = new Address("WA");
+			Console.WriteLine(ComputeSalesTax(address, 4));
 			Console.WriteLine($"{x}, {y}");
 			Console.WriteLine(Red);
 			Console.WriteLine(Red);

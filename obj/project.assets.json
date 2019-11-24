@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/kwon/.nuget/packages/": {},
+    "/Users/kidaekwon/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kwon/study/netcore/first/first.csproj",
+      "projectUniqueName": "/Users/kidaekwon/study/dotnet_core/first.csproj",
       "projectName": "first",
-      "projectPath": "/Users/kwon/study/netcore/first/first.csproj",
-      "packagesPath": "/Users/kwon/.nuget/packages/",
-      "outputPath": "/Users/kwon/study/netcore/first/obj/",
+      "projectPath": "/Users/kidaekwon/study/dotnet_core/first.csproj",
+      "packagesPath": "/Users/kidaekwon/.nuget/packages/",
+      "outputPath": "/Users/kidaekwon/study/dotnet_core/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kwon/.nuget/NuGet/NuGet.Config"
+        "/Users/kidaekwon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
