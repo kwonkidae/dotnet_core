@@ -18,4 +18,15 @@ namespace first {
 		public void Destruct(out int x, out int y) =>
 			(x, y) = (X, Y);
 	}
+
+	public enum Quadrant
+	{
+		Unknown,
+		Origin,
+		One,
+		Two,
+		Three,
+		Four,
+		OnBorder
+	}
 }
