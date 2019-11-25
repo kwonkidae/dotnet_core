@@ -51,6 +51,14 @@ namespace first
 				{ State: "MI"} => salePrice * 0.05M,
 				_ => 0M
 			};
+
+		public static string RockPaperScissors(string first, string second) 
+			=> (first, second) switch
+			{
+				("rock", "paper") => "rock is covered by paper. Paper wins.",
+				(_, _) => "tie"
+			};
+		
 		static void Main(string[] args)
 		{
 			var point = new Point();
@@ -67,6 +75,7 @@ namespace first
 			point.Y = 10;
 			Console.WriteLine(point);
 			Console.WriteLine("Hello World!");
+			Console.WriteLine(RockPaperScissors("rock", "paper"));
 		}
 	}
 }
